@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/KKaranja/DevC-and-Andela-final-project/issues"
   },
-  "homepage": "https://github.com/KKaranja/DevC-and-Andela-final-project#readme"
+  "homepage": "https://github.com/KKaranja/DevC-and-Andela-final-project#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.0",
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
 }
