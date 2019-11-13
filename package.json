@@ -1,0 +1,22 @@
+{
+  "name": "devc-and-andela-final-project",
+  "version": "1.0.0",
+  "description": "Andela and DevC final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKaranja/DevC-and-Andela-final-project.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Isaac Karanja Kimura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KKaranja/DevC-and-Andela-final-project/issues"
+  },
+  "homepage": "https://github.com/KKaranja/DevC-and-Andela-final-project#readme"
+}
