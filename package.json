@@ -4,6 +4,8 @@
   "description": "Andela and DevC final project",
   "main": "index.js",
   "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run final-app\"",
+    "final-app": "npm start --prefix final-app",
     "server": "nodemon server"
   },
   "repository": {
